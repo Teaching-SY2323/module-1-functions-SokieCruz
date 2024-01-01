@@ -9,7 +9,7 @@ int main()
     int x, y;
     cout
         << "-- Add 2 Values --\n"
-        << "Enter x Values: ";
+        << "Enter x Value: ";
     cin >> x;
     cout << "\nEnter y Value: ";
     cin >> y;
@@ -23,5 +23,5 @@ int main()
 
 int Add2Values(int x, int y)
 {
-    // add codè here
+    return x + b;
 }
